@@ -66,6 +66,15 @@
 
 > 免费域名 → Cloudflare DNS → [cloud-mail](https://github.com/maillab/cloud-mail) 自部署邮箱 = 0 元无限邮箱链路。
 
+## 🆕 本周新增（2026-11-18 更新）
+
+- **中科大每日 1 亿 token**：高校批量发额度会成为标配（风向标事件）
+- **腾讯 Hy4 限免**：WorkBuddy 接入端限免中
+- **Decision1 免费层**：200 RPM / 10K RPD（官方直核）
+- **DeepSeek 限额调整**：六源确认
+
+> 完整 300 条实时核验版见 [TokenMost](https://tokenmost.com)（每日人工核验、过期自动下架、附比价计算器）
+
 ## ⚠️ 避坑速览
 
 - **免费窗口在缩短**：近期平台集体从「送额度」转向低价订阅，限时活动看到就领。
