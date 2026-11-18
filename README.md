@@ -66,14 +66,15 @@
 
 > 免费域名 → Cloudflare DNS → [cloud-mail](https://github.com/maillab/cloud-mail) 自部署邮箱 = 0 元无限邮箱链路。
 
-## 🆕 本周新增（2026-11-18 更新）
+## 🆕 本周新增（2026-11-19 更新）
 
-- **中科大每日 1 亿 token**：高校批量发额度会成为标配（风向标事件）
-- **腾讯 Hy4 限免**：WorkBuddy 接入端限免中
-- **Decision1 免费层**：200 RPM / 10K RPD（官方直核）
-- **DeepSeek 限额调整**：六源确认
+- **七牛云 Conatus 每日 1 亿 Token**：实名即领、用完即停，活动至 11-30；单笔充值满 ¥100 可提至 10 亿/日（[官方页](https://qiniu.com/ai/free-models/conatus-2026)），再叠[邀请链接](https://s.qiniu.com/EnYbIb)注册送 300 万融合资源包
+- **智谱 AutoClaw 登录送 1 亿**：11-16~11-22 登录客户端每账号领 1 亿端内 Tokens（10,000 积分），11-22 23:59 过期（[活动公告](https://autoclaw.zhipuai.cn/blog/news/M11W3/)）
+- **Simular Box 免费 AI 云电脑**：每账号 1 台云端 Linux 桌面（实测 4 核/7.7GB/40G），MCP 直连 Claude Code/Cursor 远程指挥；⚠️ 连续休眠 14 天整台删除（[box.simular.ai](https://box.simular.ai/)）
+- **OpenCode Go 订阅 $10/月**：官方文档直核，基础订阅内含指定模型用量；Zen 免费模型含 DeepSeek V4.1 Flash、GLM-5.3-Flash、LongCat 2.5 等（[Go 文档](https://opencode.ai/v2/docs/console/go)）
+- **Rime STT 限免至 11-19**：语音转文字免费体验最后窗口，11-20 起按时长计费（[定价页](https://www.rime.ai/pricing)）
 
-> 完整 300 条实时核验版见 [TokenMost](https://tokenmost.com)（每日人工核验、过期自动下架、附比价计算器）
+> 完整 300+ 条实时核验版见 [TokenMost](https://tokenmost.com)（每日人工核验、过期自动下架、附比价计算器）
 
 ## ⚠️ 避坑速览
 
