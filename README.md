@@ -2,8 +2,14 @@
 
 面向国内开发者的免费 AI 额度清单：**大模型官方 / Agent 编程平台 / MaaS 云 / 算力 / 免费云服务器 / 免费域名**。
 
-- **所有条目截至 2026-11-14 核实**，均指向官方页面；数额以各平台官方页面实时为准。
-- 完整情报库（260+ 条、每日核验、过期自动下架）在 **[TokenMost](https://tokenmost.com)**，开源数据镜像：[KJAI123/free-ai-tokens](https://github.com/KJAI123/free-ai-tokens)（deals.json / llms.txt / RSS）。
+- **历史参考清单**：条目整理于 2026-11-14／11-19，本仓库未逐条完成 11-23 复核；以下窗口和数额不能当作今日可领取承诺。
+- 更多线索、来源链接与逐条状态见 **[TokenMost](https://tokenmost.com)**；状态可能为已核验、待复核或已过期。开源数据镜像：[KJAI123/free-ai-tokens](https://github.com/KJAI123/free-ai-tokens)（deals.json / llms.txt / RSS）。
+
+> 维护者说明：本仓库与 TokenMost 由同一维护者维护，部分历史条目含邀请／推荐链接。
+
+## 核验方法
+
+- [免费 AI 额度怎么核验：到账、积分、模型用量分开看](guides/verify-ai-credit-offers.md)（2026-11-23）——含带日期的 TRAE 规则与 NVIDIA 历史调用案例。
 
 ## 🏃 长期免费 / 每日刷新（最值得关注）
 
@@ -74,7 +80,7 @@
 - **OpenCode Go 订阅 $10/月**：官方文档直核，基础订阅内含指定模型用量；Zen 免费模型含 DeepSeek V4.1 Flash、GLM-5.3-Flash、LongCat 2.5 等（[Go 文档](https://opencode.ai/v2/docs/console/go)）
 - **Rime STT 限免至 11-19**：语音转文字免费体验最后窗口，11-20 起按时长计费（[定价页](https://www.rime.ai/pricing)）
 
-> 完整 300+ 条实时核验版见 [TokenMost](https://tokenmost.com)（每日人工核验、过期自动下架、附比价计算器）
+> 更多线索见 [TokenMost](https://tokenmost.com)，请分别查看核验状态、适用条件与有效期。
 
 ## ⚠️ 避坑速览
 
@@ -89,7 +95,7 @@
 
 ## 🔄 数据源
 
-- [TokenMost](https://tokenmost.com) — AI token 折扣情报站（每日核验、260+ 条、含折扣码与攻略）
+- [TokenMost](https://tokenmost.com) — AI 额度与折扣情报资源，提供来源、核验状态与攻略
 - [KJAI123/free-ai-tokens](https://github.com/KJAI123/free-ai-tokens) — 开源数据镜像（deals.json / llms.txt / RSS / sitemap）
 - [TokenMost RSS](https://tokenmost.com/rss.xml)
 
